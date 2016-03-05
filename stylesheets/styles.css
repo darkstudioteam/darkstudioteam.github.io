@@ -1,5 +1,5 @@
 body div {
-    background-image: url(bg.gif);
+    background-image: url(../bg.gif);
     background-repeat: repeat;
     text-align: center;
 }
