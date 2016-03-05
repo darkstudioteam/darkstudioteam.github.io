@@ -13,3 +13,25 @@ body {
      margin-top: 250px;
      color: white;
  }
+
+.btmcntr {
+    box-sizing: padding-box;
+    /*display: inline-block;*/
+    bottom: 10px;
+    border: 2px solid #fff;
+    border-radius: 6px;
+    margin: 0 auto;
+    background-color: #5fd38d;
+    width: 60%;
+}
+
+.btm {
+    padding: 10px 10px;
+}
+
+.btm p,a {
+    display: inline-block;;
+    font-size: 24px;
+    margin: 10px;
+    vertical-align: middle;
+}
