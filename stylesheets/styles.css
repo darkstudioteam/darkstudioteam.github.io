@@ -5,4 +5,11 @@ body {
     background-repeat: repeat;
     text-align: center;
     font-family: 'Righteous', cursive;
+    font-weight: normal 400;
+    font-size: 64px;
 }
+
+ body div {
+     margin-top: 250px;
+     color: white;
+ }
